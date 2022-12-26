@@ -8,7 +8,7 @@
   
   <body>
     <p>Hi,I'm YongQI233. Nice to meet you.
-      <br/>You can contact me by e-mail and my blog.
+      <br/>You can contact me by e-mail or my blog.
       <br/>e-mail: i@tqmail.tk
       <br/>blog: tqblog.tk
       <br/>Thanks click this page.
