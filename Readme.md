@@ -7,11 +7,11 @@
   </head>
   
   <body>
-    <p>Hi,I'm YongQI233. Nice to meet you.
+    <p>Hi there, I'm YongQI233. Nice to meet you.
       <br/>You can contact me by e-mail or my blog.
       <br/>e-mail: i@tqmail.tk
       <br/>blog: tqblog.tk
-      <br/>Thanks click this page.
+      <br/>Thank you for click this page.
       <br/>Have a good day!
       <br/></p>
   </body>
